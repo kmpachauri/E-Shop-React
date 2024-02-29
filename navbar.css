@@ -1,0 +1,58 @@
+.navbar{
+    display: flex;
+    background-color:rgb(4, 70, 75);
+    padding: 12px;
+    justify-content: space-evenly;
+    font-weight: bolder;
+    font-size: 20px;
+    color:white;
+    max-width: fit-content;
+}
+
+.brand-name{
+    font-size: 26px;
+    padding-right: 0px;
+    padding-left: 20px;
+    padding-bottom: 7px;
+    padding-top: 8px;
+}
+.hme{
+    padding-right: 50px;
+    padding-left: 60px;
+    font-size: 20px;
+}
+
+.mobile{
+    padding-right: 50px;
+    padding-top: 8px;
+    
+
+}
+.laptop{
+    padding-right: 50px;
+    padding-top: 8px;
+}
+.tablet{
+    padding-right: 50px;
+    padding-top: 8px;
+}
+.search-bar{
+    padding-right: 50px;
+    padding-left: 200px;
+   
+    
+}
+.search-bar input{
+    width: 303px;
+    font-size: 18px;
+    
+}
+.search-bar input::placeholder{
+    padding-left: 8px;
+}
+.cart{
+    padding-right: 50px;
+    
+    font-size: 20px;
+    
+}
